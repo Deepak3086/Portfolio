@@ -1,5 +1,3 @@
-# Ex01 Portfolio
-
 ## Date:30-07-2026
 
 ## AIM
@@ -65,7 +63,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
+```
 <html>
     <head>
         <title>Portfolio</title>
@@ -163,9 +161,11 @@ Upload to GitHub Pages for free hosting.
 
     </body>
 </html>
+```
 
 ## OUTPUT
 
+<img width="1895" height="1092" alt="image" src="https://github.com/user-attachments/assets/5f2e1230-925f-49df-8b02-b20c58b39540" />
 
 
 ## RESULT
